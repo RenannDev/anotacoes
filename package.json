@@ -1,0 +1,23 @@
+{
+  "name": "anotacoes",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório do **Anotações**, uma aplicação Full Stack desenvolvida para gerenciar notas de forma eficiente e intuitiva. Este projeto foi criado com foco em boas práticas de desenvolvimento, organização e escalabilidade.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix frontend && npm install --prefix backend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenannDev/anotacoes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RenannDev/anotacoes/issues"
+  },
+  "homepage": "https://github.com/RenannDev/anotacoes#readme"
+}
