@@ -93,7 +93,7 @@ frontend/
 
 6. Acesse a aplicação no navegador:
    - Frontend: [http://localhost:5173](http://localhost:5173)
-   - Backend: [http://localhost:3000](http://localhost:5001)
+   - Backend: [http://localhost:5001](http://localhost:5001)
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
